@@ -1,4 +1,4 @@
 
 # International-Data-Analysis-Olympiad
-## RANK -> 113
+# Rank-> 113
 ![title](rank.jpg)
